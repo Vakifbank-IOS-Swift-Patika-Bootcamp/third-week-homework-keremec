@@ -1,3 +1,23 @@
+
+
+## :computer: 1.Uygulama - Şirket
+<div align="center"> 
+https://user-images.githubusercontent.com/50713500/202906932-27fe5b63-b3f8-49bd-aafa-f8fecdf2fb13.mp4
+</div>
+
+
+
+## :dog: 2.Uygulama - Hayvanat Bahçesi
+<div align="center"> 
+https://user-images.githubusercontent.com/50713500/202907013-7354f0e1-4e4b-4cc8-badb-9c764f49a925.mp4
+</div>
+
+## :hash: 3.Uygulama - Alıntı
+<div align="center"> 
+https://user-images.githubusercontent.com/50713500/202906999-e449b3ce-dddc-4716-b1a6-27745abf6328.mov
+</div>
+
+
 # Third-Week-Homework
 1- Şirket Playground Yazılımının Xcode ile projelendirilmesi yapılacaktır. Aşağıdaki özelliklerin bulunması gerekmektedir:
 --
